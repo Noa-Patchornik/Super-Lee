@@ -34,7 +34,8 @@ The system is built using **Java (Maven)** with support for modular structure, S
 ---
 
 ## 📁 Project Structure
-
+```
+.
 dev/
 ├──src/
 │    ├── main/
@@ -50,6 +51,7 @@ dev/
 │    │   └──   java/       # Unit tests    
 ├── pom.xml                # Maven project configuration and dependencies
 └── README.md              # Project documentation (this file)
+```
 
 ## 🛠️ Technologies Used
 
